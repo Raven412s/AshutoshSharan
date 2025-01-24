@@ -28,9 +28,7 @@ const Experience = () => {
             <div className="flex lg:flex-row flex-col lg:items-center p-3 py-6 md:p-5 lg:p-10 gap-4">
               {/* Thumbnail */}
               {card.thumbnail && (
-                <Image
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                <img
                   src={card.thumbnail}
                   alt="Experience thumbnail"
                   className="lg:w-32 md:w-20 w-16"
@@ -94,7 +92,7 @@ const Experience = () => {
                           transform: `translateX(-${5 * index + 2}px)`,
                         }}
                       >
-                        <Image fill sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"  src={icon} alt={`icon-${index}`} className="p-2" />
+                        <img  src={icon} alt={`icon-${index}`} className="p-2" />
                       </div>
                     ))}
                   </div>
