@@ -90,7 +90,7 @@ const RecentProjects = () => {
                       </p>
                     </a>
                   )}
-                  {item.link !== '#' && <FaLocationArrow className="ms-3" color="#CBACF9" />}
+                  <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
               </div>
             </PinContainer>
