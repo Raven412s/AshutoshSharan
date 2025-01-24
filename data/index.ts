@@ -90,7 +90,7 @@ export const projects = [
       id: 3,
       title: "FileKeeper - Organized File Storage and Sharing",
       des: "A modern file storage and sharing platform designed to keep your documents organized, secure, and easily accessible. Not yet Google Drive, but better!",
-      img: "/p3.svg",
+      img: "/filekeeper.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/mongo.svg", "/auth.png"],
       link: "#", // Not Live
     },
@@ -98,7 +98,7 @@ export const projects = [
       id: 4,
       title: "Promptopia",
       des: "A connective platform for prompt engineers to explore, create, and share prompts with tag-based sorting for better discoverability and collaboration.",
-      img: "/p4.svg",
+      img: "/promtopia.png",
       iconLists: ["/re.svg", "/ts.svg", "/tail.svg", "/zod.png", "/mongo.svg"],
       link: "#", // Not Live
     },
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    href: "https://github.com/Raven412s"
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/insta.svg",
+    href: "https://www.instagram.com/ravenwebweaver/"
   },
   {
     id: 3,
     img: "/link.svg",
+    href: "https://www.linkedin.com/in/ashutosh-sharan-1a9523319/"
   },
 ];
