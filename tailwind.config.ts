@@ -41,7 +41,7 @@ const config = {
         blue: {
           "100": "#E4ECFF",
         },
-        purple: "#CBACF9",
+        purple: "#b2ff9e",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
@@ -159,6 +159,9 @@ const config = {
         fifth: "moveInCircle 20s ease infinite",
         scroll:
           "scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite",
+      },
+      boxShadow: {
+        'custom-green': '0 4px 8px rgba(178, 255, 158, 0.5)',
       },
     },
   },

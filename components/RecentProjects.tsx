@@ -40,12 +40,12 @@ const RecentProjects = () => {
                   className="relative w-full h-full overflow-hidden lg:rounded-3xl"
                   style={{ backgroundColor: "#13162D" }}
                 >
-                  <img src="/bg.png" alt="bgimg" />
+                  {/* <img src="/bg.png" alt="bgimg" /> */}
                 </div>
                 <img
                   src={item.img}
                   alt="cover"
-                  className="z-10 absolute bottom-0"
+                  className="z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 lg:rounded-3xl   object-cover size-full"
                 />
               </div>
 
@@ -90,7 +90,7 @@ const RecentProjects = () => {
                       </p>
                     </a>
                   )}
-                  {item.link !== "#" && <FaLocationArrow className="ms-3" color="#CBACF9" /> }
+                  {item.link !== "#" && <FaLocationArrow className="ms-3" color="#b2ff9e" /> }
                 </div>
               </div>
             </PinContainer>

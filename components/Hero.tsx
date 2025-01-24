@@ -15,9 +15,9 @@ const Hero = () => {
         />
         <Spotlight
           className="h-[80vh] w-[50vw] top-10 left-full"
-          fill="purple"
+          fill="#e9ff70"
         />
-        <Spotlight className="left-80 top-28 h-[80vh] w-[50vw]" fill="blue" />
+        <Spotlight className="left-80 top-28 h-[80vh] w-[50vw]" fill="#9fffcb" />
       </div>
 
       {/**
