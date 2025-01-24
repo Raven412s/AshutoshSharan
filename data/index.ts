@@ -121,6 +121,20 @@ export const projects = [
       title: "CEO, Heega Sports Pvt. Ltd.",
       img: "/heega.png"
     },
+    {
+      quote:
+        "Working with Ashutosh has been a game-changer for our business. His expertise, commitment, and ability to understand our vision resulted in a remarkable outcome. Ashutosh's attention to detail and innovative approach set him apart. I highly recommend him to anyone looking to transform their digital presence.",
+      name: "Ramandeep Singh",
+      title: "CEO, Heega Sports Pvt. Ltd.",
+      img: "/heega.png"
+    },
+    {
+      quote:
+        "Working with Ashutosh has been a game-changer for our business. His expertise, commitment, and ability to understand our vision resulted in a remarkable outcome. Ashutosh's attention to detail and innovative approach set him apart. I highly recommend him to anyone looking to transform their digital presence.",
+      name: "Ramandeep Singh",
+      title: "CEO, Heega Sports Pvt. Ltd.",
+      img: "/heega.png"
+    },
   ];
 
 
@@ -158,84 +172,6 @@ export const companies = [
 ];
 
 export const workExperience = [
-    {
-      id: 1,
-      title: "Web Developer Intern",
-      company: "Heega Sports, Meerut",
-      timePeriod: "August 2024 - October 2024",
-      desc: "Developed software to enhance work efficiency and contributed to the e-commerce platform's product info page.",
-      keyServices: [
-        "Created an employee monitoring software to improve work efficiency.",
-        "Developed the product information page for the e-commerce website.",
-        "Collaborated with the team to implement modern web solutions."
-      ],
-      techStack: [
-        "Tailwind CSS",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Material Design",
-        "Tanstack React Table",
-        "Tanstack React Query",
-        "Axios",
-        "React & React Hooks",
-        "Zod",
-        "React Hook Form",
-      ],
-      iconLists: [
-        "/tail.svg",
-        "/next.svg",
-        "/ts.svg",
-        "/py.svg",
-        "/md-48.svg",
-        "/tsr.png",
-        "/axios.svg",
-        "/re.svg",
-        "/zod.png",
-        "/rhf.svg",
-      ],
-      className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
-    },
-    {
-      id: 1,
-      title: "Web Developer Intern",
-      company: "Heega Sports, Meerut",
-      timePeriod: "August 2024 - October 2024",
-      desc: "Developed software to enhance work efficiency and contributed to the e-commerce platform's product info page.",
-      keyServices: [
-        "Created an employee monitoring software to improve work efficiency.",
-        "Developed the product information page for the e-commerce website.",
-        "Collaborated with the team to implement modern web solutions."
-      ],
-      techStack: [
-        "Tailwind CSS",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Material Design",
-        "Tanstack React Table",
-        "Tanstack React Query",
-        "Axios",
-        "React & React Hooks",
-        "Zod",
-        "React Hook Form",
-      ],
-      iconLists: [
-        "/tail.svg",
-        "/next.svg",
-        "/ts.svg",
-        "/py.svg",
-        "/md-48.svg",
-        "/tsr.png",
-        "/axios.svg",
-        "/re.svg",
-        "/zod.png",
-        "/rhf.svg",
-      ],
-      className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
-    },
     {
       id: 1,
       title: "Web Developer Intern",
