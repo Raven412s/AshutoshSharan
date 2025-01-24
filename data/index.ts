@@ -113,38 +113,15 @@ export const projects = [
   ];
 
 
-export const testimonials = [
-  {
-    quote:
-      "Collaborating with Ashutosh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ashutosh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ashutosh is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Ashutosh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ashutosh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ashutosh is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Ashutosh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ashutosh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ashutosh is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Ashutosh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ashutosh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ashutosh is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Ashutosh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ashutosh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ashutosh is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-];
+  export const testimonials = [
+    {
+      quote:
+        "Working with Ashutosh has been a game-changer for our business. His expertise, commitment, and ability to understand our vision resulted in a remarkable outcome. Ashutosh's attention to detail and innovative approach set him apart. I highly recommend him to anyone looking to transform their digital presence.",
+      name: "Ramandeep Singh",
+      title: "CEO, Heega Sports Pvt. Ltd.",
+    },
+  ];
+
 
 export const companies = [
   {
