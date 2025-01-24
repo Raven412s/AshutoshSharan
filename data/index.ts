@@ -119,6 +119,7 @@ export const projects = [
         "Working with Ashutosh has been a game-changer for our business. His expertise, commitment, and ability to understand our vision resulted in a remarkable outcome. Ashutosh's attention to detail and innovative approach set him apart. I highly recommend him to anyone looking to transform their digital presence.",
       name: "Ramandeep Singh",
       title: "CEO, Heega Sports Pvt. Ltd.",
+      img: "/heega.png"
     },
   ];
 
@@ -126,7 +127,7 @@ export const projects = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "Heega",
     img: "/cloud.svg",
     nameImg: "/cloudName.svg",
   },
@@ -149,11 +150,11 @@ export const companies = [
     nameImg: "/streamName.svg",
   },
   {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
+    id:5,
+    name: "clerk",
+    img: "/c.svg",
+    nameImg: "/cName.svg"
+}
 ];
 
 export const workExperience = [
